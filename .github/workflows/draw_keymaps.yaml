@@ -1,0 +1,23 @@
+name: 'Draw keymaps'
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'config/*.keymap'
+      - '.github/workflows/draw_keymaps.yaml'
+      - 'keymap-drawer/lily58_drawer.yaml'
+
+jobs:
+  draw:
+    uses: caksoylar/keymap-drawer/.github/workflows/draw-zmk.yml@main
+    permissions:
+      contents: write  # allow workflow to commit to the repo
+    with:
+      keymap_patterns: "config/*.keymap"        # path to the keymaps to parse
+      config_path: "keymap-drawer/lily58_drawer.yaml"  # config file, ignored if not exists
+      output_folder: "keymap-drawer"            # path to save produced SVG and keymap YAML files
+      parse_args: ""
+      draw_args: ""
+      fail_on_error: true
+      debug_mode: true
+

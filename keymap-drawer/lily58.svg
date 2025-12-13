@@ -475,12 +475,12 @@ rect.combo {
 <use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:apple-keyboard-command"/>
 </g>
 <g class="combo vertical_combo combopos-0">
-<rect rx="4" ry="4" x="1223" y="138" width="34" height="34" class="combo vertical_combo"/>
-<text x="1240" y="155" class="combo vertical_combo tap">{</text>
+<rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="223" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="240" y="205" class="combo vertical_combo tap">}</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 </g>
 </g>
@@ -728,12 +728,12 @@ rect.combo {
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-13" y="-13" height="26" width="26.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g class="combo vertical_combo combopos-0">
-<rect rx="4" ry="4" x="1223" y="138" width="34" height="34" class="combo vertical_combo"/>
-<text x="1240" y="155" class="combo vertical_combo tap">{</text>
+<rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="223" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="240" y="205" class="combo vertical_combo tap">}</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 </g>
 </g>
@@ -984,12 +984,12 @@ rect.combo {
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-13" y="-13" height="26" width="26.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g class="combo vertical_combo combopos-0">
-<rect rx="4" ry="4" x="1223" y="138" width="34" height="34" class="combo vertical_combo"/>
-<text x="1240" y="155" class="combo vertical_combo tap">{</text>
+<rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="223" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="240" y="205" class="combo vertical_combo tap">}</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 </g>
 </g>

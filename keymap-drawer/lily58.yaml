@@ -52,11 +52,11 @@ layers:
   - /
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-option$$
+  - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-command$$
   - Low
-  - $$mdi:keyboard-space$$
-  - RET
   - Rai
+  - RET
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-command$$
   Low:
@@ -112,8 +112,8 @@ layers:
   - '|'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -173,8 +173,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:

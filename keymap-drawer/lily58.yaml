@@ -179,20 +179,20 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [27, 28]
-  k: '{'
+  k: Ctl+7
   type: vertical_combo
 - p: [31, 32]
-  k: '}'
+  k: Ctl+0
   type: vertical_combo
 - p: [39, 40]
-  k: '['
+  k: Ctl+8
   type: vertical_combo
 - p: [44, 45]
-  k: ']'
+  k: Ctl+9
   type: vertical_combo
 - p: [28, 29]
-  k: (
+  k: Sft+8
   type: vertical_combo
 - p: [30, 31]
-  k: )
+  k: Sft+9
   type: vertical_combo

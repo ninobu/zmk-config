@@ -125,10 +125,35 @@
             key-positions = <27 28>;
             bindings = <&kp LEFT_BRACE>;
         };
+
         combo_brace_right {
             timeout-ms = <30>;
             key-positions = <31 32>;
             bindings = <&kp RIGHT_BRACE>;
+        };
+
+        combo_bracket_left {
+            timeout-ms = <30>;
+            key-positions = <39 40>;
+            bindings = <&kp LBKT>;
+        };
+
+        combo_bracket_right {
+            timeout-ms = <30>;
+            key-positions = <44 45>;
+            bindings = <&kp RBKT>;
+        };
+
+        combo_parenthesis_left {
+            timeout-ms = <30>;
+            key-positions = <28 29>;
+            bindings = <&kp LEFT_PARENTHESIS>;
+        };
+
+        combo_parenthesis_right {
+            timeout-ms = <30>;
+            key-positions = <30 31>;
+            bindings = <&kp RIGHT_PARENTHESIS>;
         };
     };
 

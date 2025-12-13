@@ -482,6 +482,22 @@ rect.combo {
 <rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
 <text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
+<g class="combo vertical_combo combopos-2">
+<rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
+</g>
+<g class="combo vertical_combo combopos-3">
+<rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="295" class="combo vertical_combo tap">]</text>
+</g>
+<g class="combo vertical_combo combopos-4">
+<rect rx="4" ry="4" x="383" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="400" y="215" class="combo vertical_combo tap">(</text>
+</g>
+<g class="combo vertical_combo combopos-5">
+<rect rx="4" ry="4" x="903" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="215" class="combo vertical_combo tap">)</text>
+</g>
 </g>
 </g>
 <g transform="translate(0, 472)" class="layer-Low">
@@ -734,6 +750,22 @@ rect.combo {
 <g class="combo vertical_combo combopos-1">
 <rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
 <text x="1000" y="205" class="combo vertical_combo tap">}</text>
+</g>
+<g class="combo vertical_combo combopos-2">
+<rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
+</g>
+<g class="combo vertical_combo combopos-3">
+<rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="295" class="combo vertical_combo tap">]</text>
+</g>
+<g class="combo vertical_combo combopos-4">
+<rect rx="4" ry="4" x="383" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="400" y="215" class="combo vertical_combo tap">(</text>
+</g>
+<g class="combo vertical_combo combopos-5">
+<rect rx="4" ry="4" x="903" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="215" class="combo vertical_combo tap">)</text>
 </g>
 </g>
 </g>
@@ -990,6 +1022,22 @@ rect.combo {
 <g class="combo vertical_combo combopos-1">
 <rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
 <text x="1000" y="205" class="combo vertical_combo tap">}</text>
+</g>
+<g class="combo vertical_combo combopos-2">
+<rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
+</g>
+<g class="combo vertical_combo combopos-3">
+<rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="295" class="combo vertical_combo tap">]</text>
+</g>
+<g class="combo vertical_combo combopos-4">
+<rect rx="4" ry="4" x="383" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="400" y="215" class="combo vertical_combo tap">(</text>
+</g>
+<g class="combo vertical_combo combopos-5">
+<rect rx="4" ry="4" x="903" y="198" width="34" height="34" class="combo vertical_combo"/>
+<text x="920" y="215" class="combo vertical_combo tap">)</text>
 </g>
 </g>
 </g>

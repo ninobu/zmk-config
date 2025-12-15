@@ -136,37 +136,37 @@
         combo_brace_left {
             timeout-ms = <30>;
             key-positions = <27 28>;
-            bindings = <&kp RA(N8)>;
+            bindings = <&kp RA(N7)>;
         };
 
         combo_brace_right {
             timeout-ms = <30>;
             key-positions = <31 32>;
-            bindings = <&kp RBRC>;
+            bindings = <&kp RA(N0)>;
         };
 
         combo_bracket_left {
             timeout-ms = <30>;
             key-positions = <39 40>;
-            bindings = <&kp LBKT>;
+            bindings = <&kp RA(N8)>;
         };
 
         combo_bracket_right {
             timeout-ms = <30>;
             key-positions = <44 45>;
-            bindings = <&kp DE_RIGHT_BRACKET>;
+            bindings = <&kp RA(N9)>;
         };
 
         combo_parenthesis_left {
             timeout-ms = <30>;
             key-positions = <28 29>;
-            bindings = <&kp DE_LEFT_PARENTHESIS>;
+            bindings = <&kp LS(N8)>;
         };
 
         combo_parenthesis_right {
             timeout-ms = <30>;
             key-positions = <30 31>;
-            bindings = <&kp DE_RIGHT_PARENTHESIS>;
+            bindings = <&kp LS(N9)>;
         };
     };
 

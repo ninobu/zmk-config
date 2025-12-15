@@ -136,19 +136,19 @@
         combo_brace_left {
             timeout-ms = <30>;
             key-positions = <27 28>;
-            bindings = <&kp X>;
+            bindings = <&kp LBRC>;
         };
 
         combo_brace_right {
             timeout-ms = <30>;
-            key-positions = <7 8>;
-            bindings = <&kp Y>;
+            key-positions = <31 32>;
+            bindings = <&kp RBRC>;
         };
 
         combo_bracket_left {
             timeout-ms = <30>;
             key-positions = <39 40>;
-            bindings = <&kp DE_LEFT_BRACKET>;
+            bindings = <&kp LBKT>;
         };
 
         combo_bracket_right {

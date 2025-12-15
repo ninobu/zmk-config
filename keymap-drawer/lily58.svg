@@ -476,17 +476,15 @@ rect.combo {
 </g>
 <g class="combo vertical_combo combopos-0">
 <rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="205" class="combo vertical_combo tap">X</text>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="983" y="28" width="34" height="34" class="combo vertical_combo"/>
-<text x="1000" y="45" class="combo vertical_combo tap">Y</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 <g class="combo vertical_combo combopos-2">
 <rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="285" class="combo vertical_combo tap">
-<tspan x="320" dy="-0.5em">Ctl+</tspan><tspan x="320" dy="1.0em">Alt+8</tspan>
-</text>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
 </g>
 <g class="combo vertical_combo combopos-3">
 <rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>
@@ -749,17 +747,15 @@ rect.combo {
 </g>
 <g class="combo vertical_combo combopos-0">
 <rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="205" class="combo vertical_combo tap">X</text>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="983" y="28" width="34" height="34" class="combo vertical_combo"/>
-<text x="1000" y="45" class="combo vertical_combo tap">Y</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 <g class="combo vertical_combo combopos-2">
 <rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="285" class="combo vertical_combo tap">
-<tspan x="320" dy="-0.5em">Ctl+</tspan><tspan x="320" dy="1.0em">Alt+8</tspan>
-</text>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
 </g>
 <g class="combo vertical_combo combopos-3">
 <rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>
@@ -1025,17 +1021,15 @@ rect.combo {
 </g>
 <g class="combo vertical_combo combopos-0">
 <rect rx="4" ry="4" x="303" y="188" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="205" class="combo vertical_combo tap">X</text>
+<text x="320" y="205" class="combo vertical_combo tap">{</text>
 </g>
 <g class="combo vertical_combo combopos-1">
-<rect rx="4" ry="4" x="983" y="28" width="34" height="34" class="combo vertical_combo"/>
-<text x="1000" y="45" class="combo vertical_combo tap">Y</text>
+<rect rx="4" ry="4" x="983" y="188" width="34" height="34" class="combo vertical_combo"/>
+<text x="1000" y="205" class="combo vertical_combo tap">}</text>
 </g>
 <g class="combo vertical_combo combopos-2">
 <rect rx="4" ry="4" x="303" y="268" width="34" height="34" class="combo vertical_combo"/>
-<text x="320" y="285" class="combo vertical_combo tap">
-<tspan x="320" dy="-0.5em">Ctl+</tspan><tspan x="320" dy="1.0em">Alt+8</tspan>
-</text>
+<text x="320" y="285" class="combo vertical_combo tap">[</text>
 </g>
 <g class="combo vertical_combo combopos-3">
 <rect rx="4" ry="4" x="903" y="278" width="34" height="34" class="combo vertical_combo"/>

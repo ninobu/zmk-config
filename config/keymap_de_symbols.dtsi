@@ -1,7 +1,7 @@
 /* QWERTZ-DE symbol mappings */
 
 /* Braces */
-#define DE_LEFT_BRACE        LC(7)   /* { */
+#define DE_LEFT_BRACE        LC(LALT(7))   /* { */
 #define DE_RIGHT_BRACE       LC(0)   /* } */
 
 /* Brackets */

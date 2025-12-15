@@ -327,14 +327,14 @@ parse_config:
     LALT: $$mdi:apple-keyboard-option$$
     LSHIFT: $$mdi:apple-keyboard-shift$$
     LSHFT: $$mdi:apple-keyboard-shift$$
-    LCMD: $$mdi:apple-keyboard-command$$
-    LGUI: $$mdi:apple-keyboard-command$$
+    LCMD: $$mdi:microsoft-windows$$
+    LGUI: $$mdi:microsoft-windows$$
     RCTRL: $$mdi:apple-keyboard-control$$
     RALT: $$mdi:apple-keyboard-option$$
     RSHIFT: $$mdi:apple-keyboard-shift$$
     RSHFT: $$mdi:apple-keyboard-shift$$
-    RCMD: $$mdi:apple-keyboard-command$$
-    RGUI: $$mdi:apple-keyboard-command$$
+    RCMD: $$mdi:microsoft-windows$$
+    RGUI: $$mdi:microsoft-windows$$
     # "Meh" key
     LS(LC(LALT)): $$mdi:star-three-points$$
     LA(BSPC): $$mdi:keyboard-backspace$$

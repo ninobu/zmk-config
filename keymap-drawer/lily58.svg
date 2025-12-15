@@ -446,11 +446,11 @@ rect.combo {
 </g>
 <g transform="translate(320, 372)" class="key keypos-51">
 <rect rx="4" ry="4" x="-39" y="-39" width="78" height="78" class="key"/>
-<use href="#mdi:keyboard-space" xlink:href="#mdi:keyboard-space" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:keyboard-space"/>
+<use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:apple-keyboard-command"/>
 </g>
 <g transform="translate(400, 380)" class="key keypos-52">
 <rect rx="4" ry="4" x="-39" y="-39" width="78" height="78" class="key"/>
-<use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:apple-keyboard-command"/>
+<use href="#mdi:keyboard-space" xlink:href="#mdi:keyboard-space" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:keyboard-space"/>
 </g>
 <g transform="translate(500, 380) rotate(30.0)" class="key keypos-53">
 <rect rx="4" ry="4" x="-39" y="-59" width="78" height="118" class="key"/>

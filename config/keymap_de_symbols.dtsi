@@ -1,13 +1,13 @@
 /* QWERTZ-DE symbol mappings */
 
 /* Braces */
-#define DE_LEFT_BRACE        LC(7)   /* { */
-#define DE_RIGHT_BRACE       LC(0)   /* } */
+#define DE_LEFT_BRACE        LC(LA(7))   // {
+#define DE_RIGHT_BRACE       LC(LA(0))   // }
 
 /* Brackets */
-#define DE_LEFT_BRACKET      LC(8)   /* [ */
-#define DE_RIGHT_BRACKET     LC(9)   /* ] */
+#define DE_LEFT_BRACKET      LC(LA(8))   // [
+#define DE_RIGHT_BRACKET     LC(LA(9))   // ]
 
 /* Parentheses */
-#define DE_LEFT_PARENTHESIS  LS(8)   /* ( */
-#define DE_RIGHT_PARENTHESIS LS(9)   /* ) */
+#define DE_LEFT_PARENTHESIS  LS(8)   // (
+#define DE_RIGHT_PARENTHESIS LS(9)   // )

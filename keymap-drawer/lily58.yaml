@@ -28,11 +28,11 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - {t: A, h: '$$mdi:apple-keyboard-control$$'}
   - {t: R, h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: S, h: '$$mdi:apple-keyboard-command$$'}
+  - {t: S, h: '$$mdi:microsoft-windows$$'}
   - T
   - D
   - H
-  - {t: N, h: '$$mdi:apple-keyboard-command$$'}
+  - {t: N, h: '$$mdi:microsoft-windows$$'}
   - {t: E, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: I, h: '$$mdi:apple-keyboard-control$$'}
   - O
@@ -52,13 +52,13 @@ layers:
   - /
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-command$$
-  - Low
+  - $$mdi:microsoft-windows$$
   - $$mdi:keyboard-space$$
-  - RET
+  - Low
   - Rai
+  - RET
   - {t: '$$mdi:backspace$$', type: backspace}
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:microsoft-windows$$
   Low:
   - $$mdi:bluetooth-off$$
   - {t: '$$mdi:numeric-0$$', h: '$$mdi:bluetooth$$'}
@@ -112,8 +112,8 @@ layers:
   - '|'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -173,22 +173,22 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [27, 28]
-  k: Ctl+7
+  k: AltGr+7
   type: vertical_combo
 - p: [31, 32]
-  k: Ctl+0
+  k: AltGr+0
   type: vertical_combo
 - p: [39, 40]
-  k: Ctl+8
+  k: AltGr+8
   type: vertical_combo
 - p: [44, 45]
-  k: Ctl+9
+  k: AltGr+9
   type: vertical_combo
 - p: [28, 29]
   k: Sft+8
